@@ -12,10 +12,6 @@ The server provides a single tool, `search_file_for_keyword`, which allows an AI
 ## How to Run
 
 1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-    cd YOUR_REPO_NAME
-    ```
 
 2.  **Create and activate a virtual environment:**
     ```bash
